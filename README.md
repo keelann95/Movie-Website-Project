@@ -43,11 +43,11 @@ To use this repo, follow these steps:
 
 3. Clone the repository by running the following command:
 
-       git clone https://github.com/keelann95/flatiron-movie-theater
+       git clone https://github.com/keelann95/Movie-Website-Project
 
 4. Change directory to the repo folder:
 
-        cd flatiron-movie-theater 
+        cd movie-website-project 
 
 5. Open it in your Code Editor of choice. If you use VS Code, run the command:
 
@@ -63,12 +63,12 @@ To use this repo, follow these steps:
 
 4. Remember to replace your username when cloning.
 
-        git clone  https://github.com/keelann95/flatiron-movie-theater
+        git clone  https://github.com/keelann95/Movie-Website-Project
 
 ## Running the application locally
 1. Open the integrated terminal in your code editor and run json-server:
 
-        json-server watch db.json
+        json-server watch movie.json
 
 2. Open the index.html file in Mozilla Firefox, Safari or any Chromium-based browser.
 
