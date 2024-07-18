@@ -17,9 +17,10 @@ body {
 header {
   width: 80%;
   height: 90%;
-  border: 1px solid #fff;
+  /* border: 1px solid #fff; */
   overflow: hidden;
   box-shadow: 0px 5px 25px -px #000;
+  border-radius: 12px;
 }
 
 header::before {
@@ -55,7 +56,7 @@ header nav{
     display: flex;
     align-items: center;
    column-gap: 17rem;
-   border: 1px solid #fff;
+   /* border: 1px solid #fff; */
  
 }
 .logo{
@@ -294,7 +295,7 @@ margin-left: 8px;
    header section .cards{
     position: relative;
     height: 250px;
-    width: 81.8%;
+    width: 80.9%;
     /* border: 1px solid #fff; */
     margin-top: 40px;
     display: flex;
